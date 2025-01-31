@@ -1,0 +1,5 @@
+#!/bin/bash
+# 1-listit
+
+# List the contents of the current directory
+ls
