@@ -2,5 +2,3 @@
 # Print the absolute path of the current working directory
 pwd
 
-chmod +x 0-current_working_directory
-
