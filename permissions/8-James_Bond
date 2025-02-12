@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ ! -f "hello" ]; then    echo "File 'hello' not found!"    exit 1 fi chmod 007 hello
+if [ ! -f "hello" ] then    echo "File 'hello' not found!"    exit 1 fi chmod 007 hello
