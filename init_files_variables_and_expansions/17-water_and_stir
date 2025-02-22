@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $(echo "$WATER" | tr 'ewatr' '01234') + $(echo "$STIR" | tr 'itirtr' '012345') | tr '0123456789' 'shtbeolhc'
+printf "%.2f\n" "$NUM"
