@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$WATER + $STIR" | tr 'ewatritirtr0123456789' '01234shtbeolhc' | bc
+echo "$WATER + $STIR"  tr 'ewatritirtr0123456789' '01234shtbeolhc'  bc
