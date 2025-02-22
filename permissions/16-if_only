@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ "$(stat -c %U hello)" = "guillaume" ] then chown vincent hello fi
+mkdir -m 751 dir_holberton
